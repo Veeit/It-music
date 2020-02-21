@@ -48,6 +48,17 @@ https://www.youtube.com/watch?v=nSKp2StlS6s
 
 - love it, a song about bad API design that every developer know !
 
+## Git
+
+### Github
+
+#### Better Together • GitHub Guides Music Video
+
+https://www.youtube.com/watch?v=qv_UKAoCwN4
+
+- Better Together with github, a song about the live with github 
+
+
 ## Database 
 
 ### Database Skills (Sia Cheep Thrills Parody) - MongoDB
