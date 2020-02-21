@@ -110,5 +110,16 @@ https://www.youtube.com/watch?v=QrohEBlw2nw
 
 - The time has come to use suse, and why you need it
 
+#### It's SUSE I Love - SUSE Music Parody
+
+https://www.youtube.com/watch?v=YQTG4aLP4-0
+
+- a other song about suse, you realy shoud start useing suse
+
+#### My Kind of Open Source - SUSE Parody Music Video
+
+https://www.youtube.com/watch?v=escykW2mC5k
+
+- A song about open source and suse 
 
 
