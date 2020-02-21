@@ -133,4 +133,8 @@ https://www.youtube.com/watch?v=escykW2mC5k
 
 - A song about open source and suse 
 
+#### SUSE Now Hallelujah - A Musical Parody
 
+https://www.youtube.com/watch?v=-z8LDOujCJc
+
+- How it feels to use suse, and why sou should 
