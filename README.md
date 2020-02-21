@@ -138,3 +138,10 @@ https://www.youtube.com/watch?v=escykW2mC5k
 https://www.youtube.com/watch?v=-z8LDOujCJc
 
 - How it feels to use suse, and why sou should 
+
+
+#### It's SUSE and SAP - An Original Music Video
+
+https://www.youtube.com/watch?v=h9E0CUfXgHE
+
+-  Suse works with SAP, why you should set it up like this 
