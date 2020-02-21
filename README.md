@@ -84,6 +84,31 @@ https://www.youtube.com/watch?v=M9bq_alk-sw
 
 - Suse and why you shoud use it 
 
+#### Coding in the Name of - (Rage Against the Machine Parody)
+
+https://www.youtube.com/watch?v=50Qs4gVHB_E
+
+- A song about open source code / projects 
+
+
+#### Code Together - (Come Together parody)
+
+https://www.youtube.com/watch?v=_9aLiv5M6AQ
+
+- Code together, a call to open source your stuff! 
+
+#### Walk Like A Chameleon - SUSE Music Parody
+
+https://www.youtube.com/watch?v=5hb-hZdLc20
+
+- Song about Suse in general, love or hate it! I like it 
+
+
+#### The Time Has Come - SUSE Music Parody
+
+https://www.youtube.com/watch?v=QrohEBlw2nw
+
+- The time has come to use suse, and why you need it
 
 
 
