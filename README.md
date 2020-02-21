@@ -40,6 +40,14 @@ https://www.youtube.com/watch?v=V5jHHYFqt9o
 
 - php is damn fast, a soung about the hate php gets 
 
+### API
+
+#### You Give REST a Bad Name
+
+https://www.youtube.com/watch?v=nSKp2StlS6s
+
+- love it, a song about bad API design that every developer know !
+
 ## Database 
 
 ### Database Skills (Sia Cheep Thrills Parody) - MongoDB
